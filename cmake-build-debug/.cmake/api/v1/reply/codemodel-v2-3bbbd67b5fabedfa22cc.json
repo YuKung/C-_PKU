@@ -1,0 +1,168 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "C___PKU",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "001.simple_swap::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-001.simple_swap-Debug-bea92ca5d29bec277d12.json",
+					"name" : "001.simple_swap",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "002.harder_swap::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-002.harder_swap-Debug-ab77aa7da24b79014f99.json",
+					"name" : "002.harder_swap",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "003.strange_return_value::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-003.strange_return_value-Debug-c0c0c4be475faa797013.json",
+					"name" : "003.strange_return_value",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "004mysterious_init::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-004mysterious_init-Debug-d53125d267405b6f7865.json",
+					"name" : "004mysterious_init",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "005.student_info::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-005.student_info-Debug-415fb6b19ad9a98832eb.json",
+					"name" : "005.student_info",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "006.class_copy::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-006.class_copy-Debug-520539f7e45095c12ca2.json",
+					"name" : "006.class_copy",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "007.return_what::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-007.return_what-Debug-2925865a0e806332a8ae.json",
+					"name" : "007.return_what",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "008.simple_complex_class::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-008.simple_complex_class-Debug-570f512bcd81c09bdbb1.json",
+					"name" : "008.simple_complex_class",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "009.where_is_input_from::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-009.where_is_input_from-Debug-a3d9f7a177aac69caf8b.json",
+					"name" : "009.where_is_input_from",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "011.enclosing_class::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-011.enclosing_class-Debug-b51db1a1d9bdc88fbac8.json",
+					"name" : "011.enclosing_class",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "012.where_pointer_from::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-012.where_pointer_from-Debug-acf5e0aadc2c2b4026ad.json",
+					"name" : "012.where_pointer_from",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "013.WarCraft1_Pre::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-013.WarCraft1_Pre-Debug-b3c0296ed4272612106e.json",
+					"name" : "013.WarCraft1_Pre",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C___PKU::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C___PKU-Debug-c425e48857216a2f7b91.json",
+					"name" : "C___PKU",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/codes/CLion/C++_PKU/cmake-build-debug",
+		"source" : "D:/codes/CLion/C++_PKU"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
